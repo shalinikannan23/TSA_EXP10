@@ -88,15 +88,30 @@ plt.show()
 ```
 ### OUTPUT:
 
-![image](https://github.com/user-attachments/assets/79cbff1d-0f89-4fac-a72e-4bcc591ff05f)
+<table>
+  <tr>
+    <td style="width:50%">
+      <img src="https://github.com/user-attachments/assets/79cbff1d-0f89-4fac-a72e-4bcc591ff05f" style="width:48%; height:auto;">
+    </td>
+    <td style="width:50%">
+      <img src="https://github.com/user-attachments/assets/5105dcc2-ac2f-40ec-867f-1ea391209fa7" style="width:48%; height:auto;">
+    </td>
+  </tr>
+  <tr>
+    <td style="width:50%">
+      <img src="https://github.com/user-attachments/assets/892e2c02-d89f-41c9-8c77-464d317276bb" style="width:48%; height:auto;">
+    </td>
+    <td style="width:50%">
+      <img src="https://github.com/user-attachments/assets/7429051c-72e7-43f3-9e98-7c753236f0de" style="width:48%; height:auto;">
+    </td>
+  </tr>
+  <tr>
+    <td style="width:50%" colspan="2" align="center">
+      <img src="https://github.com/user-attachments/assets/e25e62d2-2aa4-40e1-9631-c8e74346d734" style="width:48%; height:auto;">
+    </td>
+  </tr>
+</table>
 
-![image](https://github.com/user-attachments/assets/5105dcc2-ac2f-40ec-867f-1ea391209fa7)
-
-![image](https://github.com/user-attachments/assets/892e2c02-d89f-41c9-8c77-464d317276bb)
-
-![image](https://github.com/user-attachments/assets/7429051c-72e7-43f3-9e98-7c753236f0de)
-
-![image](https://github.com/user-attachments/assets/e25e62d2-2aa4-40e1-9631-c8e74346d734)
 
 
 
